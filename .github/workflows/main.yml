@@ -1,0 +1,26 @@
+name: Run Python Script
+
+on:
+  workflow_dispatch: # Allows you to run the script manually with a click
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository Code
+      uses: actions/checkout@v4
+
+    - name: Set Up Python Environment
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Execute Script
+      run: python your_script.py  # Change "your_script.py" to your actual script file name
+
+    - name: Save Generated HTML File
+      uses: actions/upload-artifact@v4
+      with:
+        name: output-html
+        path: structure.html # Change to your actual output file name
