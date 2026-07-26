@@ -1,116 +1,44 @@
-Folder PATH listing for volume DevOps
-Volume serial number is A6E6-6ADE
-E:.
-|   Office 2016.zip
-|   Keys.zip
-|   Lenovo_Drivers.zip
-|   Microsoft Office Visio Professional 2007.zip
-|   SQLServer2014SP3-FullSlipstream-x64-ENU.7z
-|   SQLServer2019.7z
-|   vmware workstation 12 pro.zip
-|   VS2008.PRO.zip
-|   VS2013.zip
-|   powershell_script_sql_serial.txt
-|   InS__v1_690_1305_Pro_UserUpload.Net.apk
-|   bsetup_lic-premium-calculat_5786615492110.zip
-|   CapCut_1_3_2_166_capcutpc_0.exe
-|   SeagateToolkit.exe
-|   20230328_002346.mp4
-|   SanDiskSecureAccessV3.1_win.exe
-|   caesium-image-compressor-2.8.5-win-setup.exe
-|   WinDirStat.zip
-|   FreeFileSync_14.10_Windows_Setup.exe
-|   HandBrake-1.11.2-x86_64-Win_GUI.exe
+Folder PATH listing
+Volume serial number is 2A92-300F
+C:.
 |   structure.txt
+|   TestFile1 - Copy (2).txt
+|   TestFile1 - Copy (3).txt
+|   TestFile1 - Copy (4).txt
+|   TestFile1 - Copy (5).txt
+|   TestFile1 - Copy.txt
+|   TestFile1.txt
 |   
-+---Template
-|       82d20a9f991eb1d87a5058ab3db136f8.jpg
-|       87d6cd62fbce73cd2e5a155ae7e6f142.jpg
-|       background-2406119_960_720.webp
-|       brown-grunge-texture_1048-3768.jpg
-|       cac3bab312b1c3318cb54dd1af909bcd.jpg
-|       e32d8d4c6880c1a115d6cc635d196771.jpg
-|       fCXVw.jpg
-|       images.jpeg
-|       maxresdefault.jpg
-|       old-grunge-dark-textured-wooden-background_7182-1539.jpg
-|       pbUN0t.jpg
-|       red_background_with_a_pattern_201971.jpg
-|       wallpaper-hd-nature-275x155.jpg
-|       
-+---Walls
-|   |   12465.jpg
-|   |   19729.jpg
-|   |   88206.gif
-|   |   168965.jpg
-|   |   640993.jpg
-|   |   640998.jpg
-|   |   763155.jpg
-|   |   2556773907_d156b3a9cb_b.jpg
-|   |   43997329020_b9f6719342_b.jpg
-|   |   animal-animal-photography-big-cat-145939.jpg
-|   |   battery.JPG
-|   |   beatitude-wallpaper-2880x1800.jpg
-|   |   beatitude-wallpaper-3840x1080.jpg
-|   |   beatitude-wallpaper-3840x1200.jpg
-|   |   beautiful-blur-bright-326055.jpg
-|   |   broken_glass.jpg
-|   |   cat_tabby_eyes_surprise_lie_94958_2048x1152.jpg
-|   |   daylight-environment-forest-462044.jpg
-|   |   daylight-forest-glossy-443446.jpg
-|   |   e095f97df429e2d557052098ce851eed.jpg
-|   |   glowing_lion_and_tiger-wallpaper-1920x1200.jpg
-|   |   Greenary1.JPG
-|   |   hd-wallpaper-landscape-long-exposure-68147.jpg
-|   |   images.jpg
-|   |   maxresdefault.jpg
-|   |   road_clouds_river_mountains_asphalt_marking_46714_1920x1080.jpg
-|   |   road_field_evening_horizon_sun_clouds_sky_8057_1920x1080.jpg
-|   |   road_marking_evening_clouds_horizon_120298_1920x1080.jpg
-|   |   road_marking_turn_121743_1920x1080.jpg
-|   |   road_sky_marking_87735_1920x1080.jpg
-|   |   road_sky_marking_nature_84519_1920x1080.jpg
-|   |   screen-0.jpg
-|   |   Sunset1.JPG
-|   |   Sunset2 (2).JPG
-|   |   Sunset2.JPG
-|   |   the_most_beautiful_road_in_the_world_2-wallpaper-3840x2160.jpg
-|   |   tigers_2-wallpaper-3840x2160.jpg
-|   |   wall_wide_tiger_glow.jpg
-|   |   wall_wide_tiger_glow_iwritecode.jpg
-|   |   wall_wide_tiger_glow1.jpg
-|   |   wall1.jpg
-|   |   wall2.jpg
-|   |   wall3.jpg
-|   |   Windows--11.jpg
++---Test1
+|   |   TestFile1 - Copy (10) - Copy.txt
+|   |   TestFile1 - Copy (11) - Copy.txt
+|   |   TestFile1 - Copy (12) - Copy.txt
+|   |   TestFile1 - Copy (13) - Copy.txt
+|   |   TestFile1 - Copy (5) - Copy.txt
+|   |   TestFile1 - Copy (6) - Copy.txt
+|   |   TestFile1 - Copy (7) - Copy.txt
+|   |   TestFile1 - Copy (8) - Copy.txt
+|   |   TestFile1 - Copy (9) - Copy.txt
 |   |   
-|   \---Wallpapers
-|           Lord-Shiva-PNG-Image.png
-|           png-transparent-hindhu-god-shiva-thumbnail.png
-|           simple-3840x2160.jpeg
-|           simple-3840x2160.pdn
-|           Wallpaper.pdn
-|           wallpapersden.com_windows-11-hd-gradient_1920x1080 (2).jpg
-|           wallpapersden.com_windows-11-hd-gradient_1920x1080.jpg
-|           wallpapersden.com_windows-11-hd-gradient_1920x1080.pdn
-|           Win11_LordShiva.jpg
-|           Win11_LordShiva_Mariamman.jpg
-|           Win11_MyFamily.jpg
-|           Win11_MyFamilyNew - Copy.png
-|           Win11_MyFamilyNew.png
-|           
-+---bsetup_lic-premium-calculat_5786615492110
-+---WinDirStat
-|   +---arm64
-|   |       WinDirStat.exe
+|   +---Test1-2
+|   |       TestFile1 - Copy (5) - Copy.txt
+|   |       TestFile1 - Copy (6) - Copy.txt
+|   |       TestFile1 - Copy (7) - Copy.txt
+|   |       TestFile1 - Copy (8) - Copy.txt
+|   |       TestFile1 - Copy (9) - Copy.txt
 |   |       
-|   +---x64
-|   |       WinDirStat.exe
-|   |       
-|   \---x86
-|           WinDirStat.exe
+|   \---Test1-3
+|           TestFile1 - Copy (5) - Copy.txt
+|           TestFile1 - Copy (6) - Copy.txt
+|           TestFile1 - Copy (7) - Copy.txt
+|           TestFile1 - Copy (8) - Copy.txt
+|           TestFile1 - Copy (9) - Copy.txt
 |           
-\---awesome_photo_finder
-        AwesomePhotoFinder.ini
-        AwesomePhotoProject.exe
++---Test2
+|       TestFile2 - Copy.txt
+|       TestFile2.txt
+|       
+\---Test3
+        TestFile2 - Copy.txt
+        TestFile2.txt
         
